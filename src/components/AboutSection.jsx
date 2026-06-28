@@ -95,7 +95,7 @@ export const AboutSection = () => {
             {/* Foto 1 */}
             <div className="overflow-hidden rounded-xl bg-muted aspect-video relative group border border-primary/10">
               <img 
-                src="../../public/about/boxe1.jpg" 
+                src="/about/boxe1.jpg" 
                 alt="Vittoria ai regionali" 
                 className="image-fit-box transition-transform duration-500 group-hover:scale-105"
               />
@@ -107,7 +107,7 @@ export const AboutSection = () => {
             {/* Foto 2 */}
             <div className="overflow-hidden rounded-xl bg-muted aspect-video relative group border border-primary/10">
               <img 
-                src="../../public/about/boxe2.jpg" 
+                src="/about/boxe2.jpg" 
                 alt="Combattimento a Napoli" 
                 className="image-fit-box transition-transform duration-500 group-hover:scale-105"
               />
@@ -119,7 +119,7 @@ export const AboutSection = () => {
             {/* Foto 3 */}
             <div className="overflow-hidden rounded-xl bg-muted aspect-video relative group border border-primary/10">
               <img 
-                src="../../public/about/boxe3.jpg" 
+                src="/about/boxe3.jpg" 
                 alt="Torneo Esino" 
                 className="image-fit-box transition-transform duration-500 group-hover:scale-105"
               />
@@ -144,7 +144,7 @@ export const AboutSection = () => {
             {/* Foto 1 */}
             <div className="overflow-hidden rounded-xl bg-muted aspect-video relative group border border-primary/10">
               <img 
-                src="../../public/about/lavoro1.jpg" 
+                src="/about/lavoro1.jpg" 
                 alt="Costruzione moduli prefabbricati" 
                 className="image-fit-box transition-transform duration-500 group-hover:scale-105"
               />
@@ -156,7 +156,7 @@ export const AboutSection = () => {
             {/* Foto 2 */}
             <div className="overflow-hidden rounded-xl bg-muted aspect-video relative group border border-primary/10">
               <img 
-                src="../../public/about/lavoro2.png" 
+                src="/about/lavoro2.png" 
                 alt="Dettaglio cantiere moduli" 
                 className="image-fit-box transition-transform duration-500 group-hover:scale-105"
               />
@@ -168,7 +168,7 @@ export const AboutSection = () => {
             {/* Foto 3 */}
             <div className="overflow-hidden rounded-xl bg-muted aspect-video relative group border border-primary/10">
               <img 
-                src="../../public/about/lavoro2.jpg" 
+                src="/about/lavoro2.jpg" 
                 alt="Rendering CAD e progetto finito" 
                 className="image-fit-box transition-transform duration-500 group-hover:scale-105"
               />
